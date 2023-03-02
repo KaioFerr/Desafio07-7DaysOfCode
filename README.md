@@ -9,7 +9,8 @@ A calculadora pode realizar as seguintes operações:
 * Multiplicação
 * Divisão
 ## Como funciona
-O usuário deve dizer qual operação ele quer fazer e os valores de entrada. Com isso, de acordo com sua resposta será chamada uma função diferente e retornar a solução.
+O usuário deve dizer qual operação ele gostaria de fazer e os valores de entrada. Com isso, de acordo com sua resposta será chamada uma função de acordo com a
+operação escolhida e retornar a solução.
 
 ## Autor
 Este projeto foi criado por Kaio Ferreira como parte do desafio #7DayOfCode.
