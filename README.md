@@ -13,5 +13,5 @@ O usuário deve dizer qual operação ele gostaria de fazer e os valores de entr
 operação escolhida e retornará a solução.
 
 ## Autor
-Este projeto foi criado por Kaio Ferreira como parte do desafio #7DayOfCode.
+Este projeto foi criado por *Kaio Ferreira* como parte do desafio #7DayOfCode.
 ### LinkedIn: https://www.linkedin.com/in/kaio-henrique-5220b6137/
