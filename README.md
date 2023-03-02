@@ -14,4 +14,4 @@ operação escolhida e retornará a solução.
 
 ## Autor
 Este projeto foi criado por Kaio Ferreira como parte do desafio #7DayOfCode.
-## LinkedIn: https://www.linkedin.com/in/kaio-henrique-5220b6137/
+### LinkedIn: https://www.linkedin.com/in/kaio-henrique-5220b6137/
